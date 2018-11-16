@@ -1,0 +1,585 @@
+link,response,title
+//avclub.com,<200 https://io9.gizmodo.com/>,The A.V. Club
+//deadspin.com,<200 https://io9.gizmodo.com/>,Deadspin
+//gizmodo.com,<200 https://io9.gizmodo.com/>,Gizmodo
+//jalopnik.com,<200 https://io9.gizmodo.com/>,Jalopnik
+//jezebel.com,<200 https://io9.gizmodo.com/>,Jezebel
+//kotaku.com,<200 https://io9.gizmodo.com/>,Kotaku
+//lifehacker.com,<200 https://io9.gizmodo.com/>,Lifehacker
+//splinternews.com,<200 https://io9.gizmodo.com/>,Splinter
+//thetakeout.com,<200 https://io9.gizmodo.com/>,The Takeout
+//theroot.com,<200 https://io9.gizmodo.com/>,The Root
+//theonion.com,<200 https://io9.gizmodo.com/>,The Onion
+//clickhole.com,<200 https://io9.gizmodo.com/>,Clickhole
+//theinventory.com,<200 https://io9.gizmodo.com/>,The Inventory
+//gizmodo.com/video,<200 https://io9.gizmodo.com/>,Video
+//gizmodo.com/c/review,<200 https://io9.gizmodo.com/>,Review
+//gizmodo.com/tag/science,<200 https://io9.gizmodo.com/>,Science
+//io9.gizmodo.com,<200 https://io9.gizmodo.com/>,io9
+//gizmodo.com/c/field-guide,<200 https://io9.gizmodo.com/>,Field Guide
+//earther.gizmodo.com,<200 https://io9.gizmodo.com/>,Earther
+//avclub.com,<200 https://earther.gizmodo.com/>,The A.V. Club
+//deadspin.com,<200 https://earther.gizmodo.com/>,Deadspin
+//gizmodo.com,<200 https://earther.gizmodo.com/>,Gizmodo
+//jalopnik.com,<200 https://earther.gizmodo.com/>,Jalopnik
+//jezebel.com,<200 https://earther.gizmodo.com/>,Jezebel
+//kotaku.com,<200 https://earther.gizmodo.com/>,Kotaku
+//lifehacker.com,<200 https://earther.gizmodo.com/>,Lifehacker
+//splinternews.com,<200 https://earther.gizmodo.com/>,Splinter
+//thetakeout.com,<200 https://earther.gizmodo.com/>,The Takeout
+//theroot.com,<200 https://earther.gizmodo.com/>,The Root
+//theonion.com,<200 https://earther.gizmodo.com/>,The Onion
+//clickhole.com,<200 https://earther.gizmodo.com/>,Clickhole
+//theinventory.com,<200 https://earther.gizmodo.com/>,The Inventory
+//gizmodo.com/video,<200 https://earther.gizmodo.com/>,Video
+//gizmodo.com/c/review,<200 https://earther.gizmodo.com/>,Review
+//gizmodo.com/tag/science,<200 https://earther.gizmodo.com/>,Science
+//io9.gizmodo.com,<200 https://earther.gizmodo.com/>,io9
+//gizmodo.com/c/field-guide,<200 https://earther.gizmodo.com/>,Field Guide
+//earther.gizmodo.com,<200 https://earther.gizmodo.com/>,Earther
+//avclub.com,<200 https://paleofuture.gizmodo.com/>,The A.V. Club
+//deadspin.com,<200 https://paleofuture.gizmodo.com/>,Deadspin
+//gizmodo.com,<200 https://paleofuture.gizmodo.com/>,Gizmodo
+//jalopnik.com,<200 https://paleofuture.gizmodo.com/>,Jalopnik
+//jezebel.com,<200 https://paleofuture.gizmodo.com/>,Jezebel
+//kotaku.com,<200 https://paleofuture.gizmodo.com/>,Kotaku
+//lifehacker.com,<200 https://paleofuture.gizmodo.com/>,Lifehacker
+//splinternews.com,<200 https://paleofuture.gizmodo.com/>,Splinter
+//thetakeout.com,<200 https://paleofuture.gizmodo.com/>,The Takeout
+//theroot.com,<200 https://paleofuture.gizmodo.com/>,The Root
+//theonion.com,<200 https://paleofuture.gizmodo.com/>,The Onion
+//clickhole.com,<200 https://paleofuture.gizmodo.com/>,Clickhole
+//theinventory.com,<200 https://paleofuture.gizmodo.com/>,The Inventory
+//gizmodo.com/video,<200 https://paleofuture.gizmodo.com/>,Video
+//gizmodo.com/c/review,<200 https://paleofuture.gizmodo.com/>,Review
+//gizmodo.com/tag/science,<200 https://paleofuture.gizmodo.com/>,Science
+//io9.gizmodo.com,<200 https://paleofuture.gizmodo.com/>,io9
+//gizmodo.com/c/field-guide,<200 https://paleofuture.gizmodo.com/>,Field Guide
+//earther.gizmodo.com,<200 https://paleofuture.gizmodo.com/>,Earther
+//gizmodo.com/c/design,<200 https://paleofuture.gizmodo.com/>,Design
+//gizmodo.com/c/design,<200 https://io9.gizmodo.com/>,Design
+//paleofuture.gizmodo.com,<200 https://io9.gizmodo.com/>,Paleofuture
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Promote
+https://io9.gizmodo.com/the-new-wreck-it-ralph-vr-experience-combines-the-best-1830448742,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Unshare
+#,<200 https://io9.gizmodo.com/>,Promote
+https://kotaku.com/pokemon-lets-go-helped-me-connect-with-my-son-1830464142,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Promote
+https://io9.gizmodo.com/marvels-darth-vader-comic-is-doing-something-extremely-1830470083,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+//gizmodo.com/c/design,<200 https://earther.gizmodo.com/>,Design
+//paleofuture.gizmodo.com,<200 https://earther.gizmodo.com/>,Paleofuture
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Promote
+https://earther.gizmodo.com/half-of-the-worlds-rain-falls-in-just-a-dozen-days-a-ye-1830474492,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Promote
+https://earther.gizmodo.com/one-of-the-worlds-rarest-great-apes-is-no-longer-critic-1830466974,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Unshare
+#,<200 https://earther.gizmodo.com/>,Promote
+https://gizmodo.com/first-major-rain-in-centuries-triggers-wave-of-death-in-1830463921,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+//avclub.com,<200 https://gizmodo.com/video>,The A.V. Club
+//deadspin.com,<200 https://gizmodo.com/video>,Deadspin
+//gizmodo.com,<200 https://gizmodo.com/video>,Gizmodo
+//jalopnik.com,<200 https://gizmodo.com/video>,Jalopnik
+//jezebel.com,<200 https://gizmodo.com/video>,Jezebel
+//kotaku.com,<200 https://gizmodo.com/video>,Kotaku
+//lifehacker.com,<200 https://gizmodo.com/video>,Lifehacker
+//splinternews.com,<200 https://gizmodo.com/video>,Splinter
+//thetakeout.com,<200 https://gizmodo.com/video>,The Takeout
+//theroot.com,<200 https://gizmodo.com/video>,The Root
+//theonion.com,<200 https://gizmodo.com/video>,The Onion
+//clickhole.com,<200 https://gizmodo.com/video>,Clickhole
+//theinventory.com,<200 https://gizmodo.com/video>,The Inventory
+//gizmodo.com/video,<200 https://gizmodo.com/video>,Video
+//gizmodo.com/c/review,<200 https://gizmodo.com/video>,Review
+//gizmodo.com/tag/science,<200 https://gizmodo.com/video>,Science
+//io9.gizmodo.com,<200 https://gizmodo.com/video>,io9
+//gizmodo.com/c/field-guide,<200 https://gizmodo.com/video>,Field Guide
+//earther.gizmodo.com,<200 https://gizmodo.com/video>,Earther
+//gizmodo.com/c/design,<200 https://gizmodo.com/video>,Design
+//paleofuture.gizmodo.com,<200 https://gizmodo.com/video>,Paleofuture
+//paleofuture.gizmodo.com,<200 https://paleofuture.gizmodo.com/>,Paleofuture
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/douglas-rain-voice-of-hal-in-2001-a-space-odyssey-di-1830379580,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/paramount-ranch-location-for-hbos-westworld-and-countl-1830356170,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/7-movies-to-watch-on-filmstruck-before-its-gone-forever-1830095917,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Promote
+https://io9.gizmodo.com/in-elseworlds-ruby-roses-batwoman-has-no-patience-for-1830474531,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Unshare
+#,<200 https://io9.gizmodo.com/>,Promote
+https://lifehacker.com/how-to-win-over-someone-elses-cat-1830434400,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Unshare
+#,<200 https://io9.gizmodo.com/>,Promote
+https://kinjadeals.theinventory.com/the-dragon-ball-z-blu-ray-collection-is-over-9-000-jk-1830471806,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Promote
+https://io9.gizmodo.com/io9-co-founders-sci-fi-novel-autonomous-optioned-by-amc-1830466428,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Promote
+https://earther.gizmodo.com/noaa-s-new-pacific-satellite-has-sent-back-its-first-gl-1830464109,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Unshare
+#,<200 https://earther.gizmodo.com/>,Promote
+https://gizmodo.com/a-massive-impact-crater-has-been-detected-beneath-green-1830437095,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Promote
+https://earther.gizmodo.com/roughly-100-people-are-listed-missing-in-the-camp-fire-1830452290,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Unshare
+#,<200 https://earther.gizmodo.com/>,Promote
+https://theconcourse.deadspin.com/this-is-just-what-its-always-going-to-be-like-now-1830443254,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/twilight-zone-mask-from-the-eye-of-the-beholder-goes-up-1830157214,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/the-house-of-the-future-in-1945-included-a-rotisserie-a-1830123272,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/oh-hell-yeah-1830126880,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/real-moon-rocks-go-up-for-auction-in-new-york-expected-1830092539,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Promote
+https://io9.gizmodo.com/marvels-spider-man-would-like-to-remind-you-that-peter-1829148184,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Unshare
+#,<200 https://io9.gizmodo.com/>,Promote
+https://gizmodo.com/google-axes-fanfiction-tab-that-suggested-grinch-and-mi-1830460240,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Promote
+https://io9.gizmodo.com/american-horror-story-apocalypse-turned-the-end-times-1830463935,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Promote
+https://io9.gizmodo.com/just-a-reminder-you-can-email-us-news-and-info-any-tim-1695100689,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Promote
+https://earther.gizmodo.com/what-happens-after-an-entire-town-burns-to-the-ground-1830441990,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Promote
+https://earther.gizmodo.com/wait-did-trump-s-epa-just-do-its-job-for-a-change-1830439364,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Unshare
+#,<200 https://earther.gizmodo.com/>,Promote
+https://lifehacker.com/how-to-get-started-composting-1830416203,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Unshare
+#,<200 https://earther.gizmodo.com/>,Promote
+https://kinjadeals.theinventory.com/wednesdays-best-deals-herschel-supply-co-bags-assassi-1830432850,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/this-television-monocle-from-1938-was-silly-and-wonderf-1830067727,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Unshare
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://gizmodo.com/at-t-is-killing-one-of-the-internets-last-good-things-1830024166,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/how-thomas-edison-used-a-fake-electric-chair-execution-1829652181,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/national-archives-is-hosting-a-surprise-facebook-live-f-1829931273,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Promote
+https://io9.gizmodo.com/postal-apocalypse-the-final-bag-of-mail-1830456615,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Promote
+https://io9.gizmodo.com/sabrina-is-conjuring-herself-a-new-distinctly-unchilli-1830464111,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Unshare
+#,<200 https://io9.gizmodo.com/>,Promote
+https://earther.gizmodo.com/noaa-s-new-pacific-satellite-has-sent-back-its-first-gl-1830464109,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Unshare
+#,<200 https://io9.gizmodo.com/>,Promote
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Promote
+https://earther.gizmodo.com/the-biologists-using-toy-guns-to-thwart-a-pacific-snake-1830433797,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Promote
+https://earther.gizmodo.com/meet-the-heroes-who-saved-malibus-horses-from-a-fiery-i-1830404767,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Promote
+https://earther.gizmodo.com/alexandria-ocasio-cortez-spent-part-of-her-congressiona-1830416425,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Promote
+https://earther.gizmodo.com/spain-to-ban-the-sale-of-all-gas-powered-cars-by-2040-1830416355,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+//avclub.com,<200 https://gizmodo.com/tag/science>,The A.V. Club
+//deadspin.com,<200 https://gizmodo.com/tag/science>,Deadspin
+//gizmodo.com,<200 https://gizmodo.com/tag/science>,Gizmodo
+//jalopnik.com,<200 https://gizmodo.com/tag/science>,Jalopnik
+//jezebel.com,<200 https://gizmodo.com/tag/science>,Jezebel
+//kotaku.com,<200 https://gizmodo.com/tag/science>,Kotaku
+//lifehacker.com,<200 https://gizmodo.com/tag/science>,Lifehacker
+//splinternews.com,<200 https://gizmodo.com/tag/science>,Splinter
+//thetakeout.com,<200 https://gizmodo.com/tag/science>,The Takeout
+//theroot.com,<200 https://gizmodo.com/tag/science>,The Root
+//theonion.com,<200 https://gizmodo.com/tag/science>,The Onion
+//clickhole.com,<200 https://gizmodo.com/tag/science>,Clickhole
+//theinventory.com,<200 https://gizmodo.com/tag/science>,The Inventory
+//gizmodo.com/video,<200 https://gizmodo.com/tag/science>,Video
+//gizmodo.com/c/review,<200 https://gizmodo.com/tag/science>,Review
+//gizmodo.com/tag/science,<200 https://gizmodo.com/tag/science>,Science
+//io9.gizmodo.com,<200 https://gizmodo.com/tag/science>,io9
+//gizmodo.com/c/field-guide,<200 https://gizmodo.com/tag/science>,Field Guide
+//earther.gizmodo.com,<200 https://gizmodo.com/tag/science>,Earther
+//gizmodo.com/c/design,<200 https://gizmodo.com/tag/science>,Design
+//paleofuture.gizmodo.com,<200 https://gizmodo.com/tag/science>,Paleofuture
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/time-capsule-opened-to-reveal-ancient-mysterious-treas-1829838100,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/rare-1932-movie-poster-for-the-mummy-expected-to-fetch-1829677522,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/facebooks-portal-is-the-jetsons-videophone-that-we-thou-1829597331,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/claymation-artist-behind-california-raisins-and-the-noi-1829545133,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://kinjadeals.theinventory.com/thursdays-best-deals-iphone-x-refurbs-samsung-monitor-1830461502,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Promote
+https://io9.gizmodo.com/the-end-has-come-for-mister-miracle-but-has-it-come-fo-1830444672,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Promote
+https://io9.gizmodo.com/james-mcavoy-goes-on-a-rampage-in-the-latest-footage-fr-1830462232,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Unshare
+#,<200 https://io9.gizmodo.com/>,Promote
+https://gizmodo.com/study-finds-weird-interstellar-object-oumuamua-is-indee-1830456460,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Promote
+https://io9.gizmodo.com/birds-of-prey-has-found-its-cassandra-cain-1830371147,<200 https://io9.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Promote
+https://earther.gizmodo.com/the-climate-is-basically-doomed-if-we-built-the-fossil-1830410731,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Promote
+https://earther.gizmodo.com/without-radical-innovation-air-conditioning-is-set-to-1830410050,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Unshare
+#,<200 https://earther.gizmodo.com/>,Promote
+https://gizmodo.com/this-deep-sea-fisherman-is-still-posting-his-discoverie-1830402780,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Promote
+https://earther.gizmodo.com/the-camp-fire-is-now-the-deadliest-in-californias-histo-1830381633,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://earther.gizmodo.com/>,Edit
+#,<200 https://earther.gizmodo.com/>,Embiggen
+#,<200 https://earther.gizmodo.com/>,Send to Editors
+#,<200 https://earther.gizmodo.com/>,Promote
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/fcc-approves-launch-of-another-7-500-spacex-satellites-1830475663,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/the-fda-will-restrict-but-not-ban-the-sale-of-flavore-1830467640,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/first-major-rain-in-centuries-triggers-wave-of-death-in-1830463921,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/study-finds-weird-interstellar-object-oumuamua-is-indee-1830456460,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+https://paleofuture.gizmodo.com/physicist-who-coined-the-god-particle-and-sold-his-nobe-1829515966,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/this-2012-prediction-about-who-would-be-president-after-1829461252,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/did-the-release-of-the-iphone-cause-millennials-to-move-1829432492,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://paleofuture.gizmodo.com/this-bizarre-taxi-of-the-future-was-supposed-to-fit-so-1829294834,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://paleofuture.gizmodo.com/>,Edit
+#,<200 https://paleofuture.gizmodo.com/>,Embiggen
+#,<200 https://paleofuture.gizmodo.com/>,Send to Editors
+#,<200 https://paleofuture.gizmodo.com/>,Unshare
+#,<200 https://paleofuture.gizmodo.com/>,Promote
+https://io9.gizmodo.com/the-sound-engineer-behind-star-trek-the-motion-picture-1829083441,<200 https://paleofuture.gizmodo.com/>,Go to permalink
+#,<200 https://io9.gizmodo.com/>,Edit
+#,<200 https://io9.gizmodo.com/>,Embiggen
+#,<200 https://io9.gizmodo.com/>,Send to Editors
+#,<200 https://io9.gizmodo.com/>,Unshare
+#,<200 https://io9.gizmodo.com/>,Promote
+https://kinjadeals.theinventory.com/save-on-the-ultimate-gift-box-for-any-akira-fan-1829750870,<200 https://io9.gizmodo.com/>,Go to permalink
+https://earther.gizmodo.com/watch-40-years-of-icebergs-breaking-off-antarctica-1830389154,<200 https://earther.gizmodo.com/>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/plans-revealed-for-enormous-particle-collider-in-china-1830444169,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/upsettingly-large-fungus-in-michigan-weighs-440-tons-an-1830446176,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/why-cancer-is-replacing-heart-disease-as-the-leading-ca-1830438289,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/a-massive-impact-crater-has-been-detected-beneath-green-1830437095,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/scientists-spot-tantalizing-new-super-earth-around-near-1830438324,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/neanderthals-werent-the-violent-brutes-we-thought-new-1830433409,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/so-whats-going-on-with-that-hurricane-of-dark-matter-1830420899,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/juul-says-it-will-stop-selling-all-its-good-flavors-of-1830418513,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/incredible-bird-dinosaur-specimen-thrills-scientists-af-1830408991,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/please-get-some-exercise-any-exercise-at-all-new-fede-1830411770,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/mysterious-origin-of-extinct-jamaican-monkey-solved-wit-1830408210,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/new-mucus-study-could-hold-the-key-to-clearing-your-phl-1830391921,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/ancient-cat-mummies-and-more-discovered-in-egyptian-tom-1830389983,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+//gizmodo.com,<200 https://gizmodo.com/c/review/>,Gizmodo
+//avclub.com,<200 https://gizmodo.com/c/review/>,The A.V. Club
+//deadspin.com,<200 https://gizmodo.com/c/review/>,Deadspin
+//jalopnik.com,<200 https://gizmodo.com/c/review/>,Jalopnik
+//jezebel.com,<200 https://gizmodo.com/c/review/>,Jezebel
+//kotaku.com,<200 https://gizmodo.com/c/review/>,Kotaku
+//lifehacker.com,<200 https://gizmodo.com/c/review/>,Lifehacker
+//splinternews.com,<200 https://gizmodo.com/c/review/>,Splinter
+//theroot.com,<200 https://gizmodo.com/c/review/>,The Root
+//thetakeout.com,<200 https://gizmodo.com/c/review/>,The Takeout
+//clickhole.com,<200 https://gizmodo.com/c/review/>,Clickhole
+//theonion.com,<200 https://gizmodo.com/c/review/>,The Onion
+//theinventory.com,<200 https://gizmodo.com/c/review/>,The Inventory
+/about,<200 https://gizmodo.com/c/review/>,About
+https://kinja.zendesk.com/,<200 https://gizmodo.com/c/review/>,Need Help?
+https://legal.kinja.com/content-guidelines-90185358,<200 https://gizmodo.com/c/review/>,Content Guide
+,<200 https://gizmodo.com/c/review/>,"Gizmodo, Store"
+https://legal.kinja.com/privacy-policy-90190742,<200 https://gizmodo.com/c/review/>,Privacy
+https://legal.kinja.com/kinja-terms-of-use-1793094100,<200 https://gizmodo.com/c/review/>,Terms of Use
+http://thefmg.com/,<200 https://gizmodo.com/c/review/>,Advertising
+/careers,<200 https://gizmodo.com/c/review/>,Jobs
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/heres-where-the-exomars-2020-mission-will-likely-land-1830383949,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/juno-s-latest-pic-of-clouds-on-jupiter-is-an-absolute-s-1830383441,<200 https://gizmodo.com/tag/science>,Go to permalink
+#,<200 https://gizmodo.com/tag/science>,Edit
+#,<200 https://gizmodo.com/tag/science>,Embiggen
+#,<200 https://gizmodo.com/tag/science>,Send to Editors
+#,<200 https://gizmodo.com/tag/science>,Promote
+https://gizmodo.com/climate-change-is-going-to-make-ragweed-allergies-even-1830346031,<200 https://gizmodo.com/tag/science>,Go to permalink
+//gizmodo.com,<200 https://gizmodo.com/c/design/>,Gizmodo
+//avclub.com,<200 https://gizmodo.com/c/design/>,The A.V. Club
+//deadspin.com,<200 https://gizmodo.com/c/design/>,Deadspin
+//jalopnik.com,<200 https://gizmodo.com/c/design/>,Jalopnik
+//jezebel.com,<200 https://gizmodo.com/c/design/>,Jezebel
+//kotaku.com,<200 https://gizmodo.com/c/design/>,Kotaku
+//lifehacker.com,<200 https://gizmodo.com/c/design/>,Lifehacker
+//splinternews.com,<200 https://gizmodo.com/c/design/>,Splinter
+//theroot.com,<200 https://gizmodo.com/c/design/>,The Root
+//thetakeout.com,<200 https://gizmodo.com/c/design/>,The Takeout
+//clickhole.com,<200 https://gizmodo.com/c/design/>,Clickhole
+//theonion.com,<200 https://gizmodo.com/c/design/>,The Onion
+//theinventory.com,<200 https://gizmodo.com/c/design/>,The Inventory
+/about,<200 https://gizmodo.com/c/design/>,About
+https://kinja.zendesk.com/,<200 https://gizmodo.com/c/design/>,Need Help?
+https://legal.kinja.com/content-guidelines-90185358,<200 https://gizmodo.com/c/design/>,Content Guide
+,<200 https://gizmodo.com/c/design/>,"Gizmodo, Store"
+https://legal.kinja.com/privacy-policy-90190742,<200 https://gizmodo.com/c/design/>,Privacy
+https://legal.kinja.com/kinja-terms-of-use-1793094100,<200 https://gizmodo.com/c/design/>,Terms of Use
+http://thefmg.com/,<200 https://gizmodo.com/c/design/>,Advertising
+/careers,<200 https://gizmodo.com/c/design/>,Jobs
+//gizmodo.com,<200 https://gizmodo.com/c/field-guide/>,Gizmodo
+//avclub.com,<200 https://gizmodo.com/c/field-guide/>,The A.V. Club
+//deadspin.com,<200 https://gizmodo.com/c/field-guide/>,Deadspin
+//jalopnik.com,<200 https://gizmodo.com/c/field-guide/>,Jalopnik
+//jezebel.com,<200 https://gizmodo.com/c/field-guide/>,Jezebel
+//kotaku.com,<200 https://gizmodo.com/c/field-guide/>,Kotaku
+//lifehacker.com,<200 https://gizmodo.com/c/field-guide/>,Lifehacker
+//splinternews.com,<200 https://gizmodo.com/c/field-guide/>,Splinter
+//theroot.com,<200 https://gizmodo.com/c/field-guide/>,The Root
+//thetakeout.com,<200 https://gizmodo.com/c/field-guide/>,The Takeout
+//clickhole.com,<200 https://gizmodo.com/c/field-guide/>,Clickhole
+//theonion.com,<200 https://gizmodo.com/c/field-guide/>,The Onion
+//theinventory.com,<200 https://gizmodo.com/c/field-guide/>,The Inventory
+/about,<200 https://gizmodo.com/c/field-guide/>,About
+https://kinja.zendesk.com/,<200 https://gizmodo.com/c/field-guide/>,Need Help?
+https://legal.kinja.com/content-guidelines-90185358,<200 https://gizmodo.com/c/field-guide/>,Content Guide
+,<200 https://gizmodo.com/c/field-guide/>,"Gizmodo, Store"
+https://legal.kinja.com/privacy-policy-90190742,<200 https://gizmodo.com/c/field-guide/>,Privacy
+https://legal.kinja.com/kinja-terms-of-use-1793094100,<200 https://gizmodo.com/c/field-guide/>,Terms of Use
+http://thefmg.com/,<200 https://gizmodo.com/c/field-guide/>,Advertising
+/careers,<200 https://gizmodo.com/c/field-guide/>,Jobs
